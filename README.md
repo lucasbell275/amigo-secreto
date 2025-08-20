@@ -1,2 +1,20 @@
-# amigo-secreto
-Este es un proyecto en el que la aplicacion consiste en darle nombres de tus amigos, sorteara sus nombres y dara uno como resultado del 'Amigo secreto'.
+# Título del Proyecto
+
+Este proyecto se basa en sortear entre los amigos que el usuario ingresa, y da un ganador, el cual va a ser tu amigo secreto.
+
+
+
+### Pre-requisitos 📋
+Cualquier tipo de dispositivo que tenga navegador web.
+
+
+## Autores ✒️
+
+* **Lucas Daniel Bell** - *Trabajo completo* - [lucasbell275](https://github.com/lucasbell275)
+
+
+
+
+
+---
+Creador de esta plantilla de readme: [Villanuevand](https://github.com/Villanuevand) 😊
